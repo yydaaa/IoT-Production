@@ -82,7 +82,7 @@
                             <p class="m-0">INVALID CARD</p>
                         </div>
                         <div class="d-flex justify-content-between align-items-end">
-                            <a href="#" class="text-white text-decoration-none small fw-bold">Detail &rarr;</a>
+                            <a href="/invalid" class="text-white text-decoration-none small fw-bold">Detail &rarr;</a>
                             <div style="font-size: 40px; opacity: 0.2;">&#10006;</div>
                         </div>
                     </div>
